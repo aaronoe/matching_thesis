@@ -1,0 +1,16 @@
+[submodule "matching_server"]
+	path = matching_server
+	url = git@github.com:aaronoe/matching_server.git
+	branch = master
+[submodule "seminar_assignment_cpp"]
+	path = seminar_assignment_cpp
+	url = git@github.com:aaronoe/seminar_assignment_cpp.git
+	branch = master
+[submodule "seminars-web"]
+	path = seminars-web
+	url = git@github.com:aaronoe/seminars-web.git
+	branch = master
+[submodule "bachelorarbeit"]
+	path = bachelorarbeit
+	url = git@github.com:aaronoe/bachelorarbeit.git
+	branch = master
