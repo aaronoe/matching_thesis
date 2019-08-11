@@ -1,4 +1,4 @@
-# What is this?
+# Bachelor Thesis Project: Seminar Matching Web System
 
 This repository contains all source code and also latex-code used for building/writing 
 my bachelor's thesis with the title "Practical Applications of One-to-Many 
@@ -27,7 +27,7 @@ $ git submodule update --remote
 ```
 to update all submodules.
 
-### Using provided Shell scripts
+### Running the system using the provided Shell scripts
 There are two shell scripts `run_backend.sh` and `run_frontend.sh` that compile the code
 and host the backend and a local server for hosting the frontend. Requirements for using the
 scripts are a CMake and Python3 installation.
